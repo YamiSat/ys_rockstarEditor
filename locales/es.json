@@ -1,0 +1,29 @@
+{
+    "menu_title": "Rockstar Editor",
+    
+    "menu_record_title": "Grabar",
+    "menu_record_description": "Iniciar grabación",
+    
+    "menu_save_title": "Guardar Clip",
+    "menu_save_description": "Guardar la grabación actual",
+    
+    "menu_delete_title": "Borrar Clip",
+    "menu_delete_description": "Descartar la grabación actual",
+    
+    "menu_editor_title": "Editor",
+    "menu_editor_description": "Abrir Rockstar Editor",
+    
+    "notify_record_title": "Rockstar Editor",
+    "notify_record_description": "Grabación iniciada",
+    
+    "notify_save_title": "Rockstar Editor",
+    "notify_save_description": "Clip guardado",
+    
+    "notify_delete_title": "Rockstar Editor",
+    "notify_delete_description": "Clip descartado",
+    
+    "notify_editor_title": "Rockstar Editor",
+    "notify_editor_description": "Abriendo editor...",
+    
+    "menu_closed": "Menu cerrado con la tecla: %s"
+}
